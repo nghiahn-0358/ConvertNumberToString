@@ -5,7 +5,7 @@
 	hai:	.asciiz "hai "
 	ba:	.asciiz "ba "
 	bon:	.asciiz "bon "
-	nam:	.asciiz  "nam "
+	nam:	.asciiz sss "nam "
 	sau:	.asciiz "sau "
 	bay:	.asciiz "bay "
 	tam:	.asciiz "tam "
