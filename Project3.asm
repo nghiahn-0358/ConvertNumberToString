@@ -8,7 +8,7 @@
 	nam:	.asciiz sss "nam "
 	sau:	.asciiz "sau "
 	bay:	.asciiz "bay "
-	tam:	.asciiz "tam "
+	tam:	.asciiz "tamsss "
 	chin:	.asciiz "chin "
 	muoi:	.asciiz "muoi "
 	tram:	.asciiz "tram "
