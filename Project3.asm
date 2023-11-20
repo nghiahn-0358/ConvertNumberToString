@@ -12,7 +12,7 @@
 	chin:	.asciiz "chin "
 	muoi:	.asciiz "muoi "
 	tram:	.asciiz "tram "
-	nghin:	.asciiz "nghin "
+	nghin:	.asciiz "n   ghin "
 	trieu:	.asciiz "trieu "
 	le:	.asciiz "le "
 	k_tram:	.asciiz "khong tram "
